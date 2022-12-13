@@ -1,3 +1,42 @@
-body {
-
+body{
+background-color:#48cae4;
+}
+h2{
+  color:#ff5c8a;
+    font-size:250%;
+  letter-spacing:4px;
+  text-decoration: underline; 
+}
+p{
+  color:#ff5c8a;
+    font-size:200%;
+  }
+img{
+  border:  solid #ff5c8a 15px;
+height:50%;
+  width:40%;
+}
+iframe{
+    border:  #ff5c8a 10px;
+}
+ul{
+  list-style-type:none;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 25px;
+  font-family: "Comic-Sans", Fantasy;
+  border-style: solid;
+  color: #ff5c8a;
+  text-decoration-line:none;
+}
+li a:hover{
+  background-color:white;
+  color:blue;
+  
 }
